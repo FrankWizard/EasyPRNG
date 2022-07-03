@@ -16,4 +16,5 @@ Simple PRNG number generator demonstration with custom algorithm
 - Save results to a file
 - Customizable generation based on user's input
 - Tweak PRNG algorithm?
+
 **This project's probably gonna be forgotten in a few weeks so yeah...**
